@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "49719053015",
+    "project_id": "free-vpn-free-100-servers",
+    "storage_bucket": "free-vpn-free-100-servers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49719053015:android:bf1848de999a50e59c3e92",
+        "android_client_info": {
+          "package_name": "com.FreeTech.apps.VPN1.Free_VPN_With_Servers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49719053015-u8jn799a5lavkjsfr769ut7nfhnvhjs3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB40IZSDvTQKBoU2q14c8f17-ZfG4Xzajc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49719053015-u8jn799a5lavkjsfr769ut7nfhnvhjs3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
